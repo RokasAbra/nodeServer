@@ -1,0 +1,19 @@
+Serverio kurimas:
+ - pages/routes 
+ - static files
+ - cors
+ - api
+ - db (mysql/Maria)
+ - file upload
+
+ settigns:
+ - port
+ - aplinkos: dev, test, prod
+ - aplinkos: dev, prod
+ - aplinkos: prod
+ - 
+ request 
+  -> middleware (user: isLoggedIn) 
+  -> middleware (user: is....) 
+  -> middleware (user: is...) 
+ -> response (html, json)
